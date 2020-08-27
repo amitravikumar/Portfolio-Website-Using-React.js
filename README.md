@@ -9,4 +9,4 @@
 - run `npm install` to install node modules and dependencies
 - run `npm start` to start the service on `localhost:3000`
 
-### Link to my website : <https://nihalmishra.github.io/portfolio/>
+### Link to my website :
