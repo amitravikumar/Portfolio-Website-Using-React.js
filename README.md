@@ -1,5 +1,7 @@
 # My Online Portfolio made using React.js
 
+Work In Progress. Keep Checking! 😁
+
 [![Build Status](https://img.shields.io/github/workflow/status/nihalmishra/portfolio/continuous-deployment?style=for-the-badge)](https://github.com/nihalmishra/portfolio/actions?query=workflow%3Acontinuous-deployment)
 
 ## To run this project follow these steps
@@ -9,4 +11,4 @@
 - run `npm install` to install node modules and dependencies
 - run `npm start` to start the service on `localhost:3000`
 
-### Link to my website : <https://nihalmishra.github.io/portfolio/>
+### Link to my website :
