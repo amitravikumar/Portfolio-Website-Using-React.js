@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/amitravikumar.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/amitravikumar.github.io/static/js/main.24a5ea23.chunk.js",
-    "main.js.map": "/amitravikumar.github.io/static/js/main.24a5ea23.chunk.js.map",
+    "main.js": "/amitravikumar.github.io/static/js/main.81319c14.chunk.js",
+    "main.js.map": "/amitravikumar.github.io/static/js/main.81319c14.chunk.js.map",
     "runtime-main.js": "/amitravikumar.github.io/static/js/runtime-main.044a02c0.js",
     "runtime-main.js.map": "/amitravikumar.github.io/static/js/runtime-main.044a02c0.js.map",
     "static/js/2.8f18329a.chunk.js": "/amitravikumar.github.io/static/js/2.8f18329a.chunk.js",
     "static/js/2.8f18329a.chunk.js.map": "/amitravikumar.github.io/static/js/2.8f18329a.chunk.js.map",
     "index.html": "/amitravikumar.github.io/index.html",
-    "precache-manifest.4e70d9d3dd1074aec703d15441129d24.js": "/amitravikumar.github.io/precache-manifest.4e70d9d3dd1074aec703d15441129d24.js",
+    "precache-manifest.5558fa821b6da9e003bb0b24a187ccf8.js": "/amitravikumar.github.io/precache-manifest.5558fa821b6da9e003bb0b24a187ccf8.js",
     "service-worker.js": "/amitravikumar.github.io/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/amitravikumar.github.io/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.8f18329a.chunk.js.LICENSE.txt": "/amitravikumar.github.io/static/js/2.8f18329a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.044a02c0.js",
     "static/js/2.8f18329a.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.24a5ea23.chunk.js"
+    "static/js/main.81319c14.chunk.js"
   ]
 }
